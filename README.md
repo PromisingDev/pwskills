@@ -1,2 +1,0 @@
-# pwskills
-data science assignments
